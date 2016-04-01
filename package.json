@@ -1,0 +1,29 @@
+{
+  "name": "request-api-factory",
+  "version": "0.0.1",
+  "description": "API Factory using 'request-promise' module as engine",
+  "main": "./lib/request-api-factory.js",
+  "dependencies": {
+    "node.extend": "^1.1.3",
+    "request-promise": "^2.0.1"
+  },
+  "author": {
+    "name": "Diego ZoracKy",
+    "email": "diego.zoracky@gmail.com",
+    "url": "diegozoracky.com",
+    "twitter": "@diegozoracky"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/DiegoZoracKy/request-api-factory.git"
+  },
+  "bugs": "https://github.com/DiegoZoracKy/request-api-factory/issues",
+  "keywords": [
+    "request",
+    "request-promise",
+    "http",
+    "api",
+    "api factory"
+  ],
+  "license": "MIT"
+}
