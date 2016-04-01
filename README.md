@@ -59,7 +59,7 @@ The first example has more code to make the engine work than meaningful and unde
 This is an example of how you can define the API and use the RequestAPIFactory to create the interface. Bear in mind that you can have nested structures and methods.
 
 ```javascript
-const RequestAPIFactory = require('require-api-factory');
+const RequestAPIFactory = require('request-api-factory');
 let Product = new RequestAPIFactory({
 
     save: {
