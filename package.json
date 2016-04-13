@@ -1,6 +1,6 @@
 {
   "name": "request-api-factory",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "API Factory using 'request-promise' module as engine",
   "main": "./lib/request-api-factory.js",
   "dependencies": {
